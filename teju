@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K. TEJASWINI - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2C3E50;
+        }
+        h3 {
+            color: #34495E;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section ul li {
+            margin-bottom: 5px;
+        }
+        .section ul li span {
+            font-weight: bold;
+        }
+        .contact-info, .education, .skills, .projects, .certifications, .references {
+            margin-bottom: 20px;
+        }
+        .contact-info span, .education span, .skills span, .projects span, .certifications span, .references span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>K. TEJASWINI</h1>
+            <p><strong>Age:</strong> 19 | <strong>Contact:</strong> [Your Phone Number] | <strong>Email:</strong> [Your Email Address]</p>
+            <p><strong>Address:</strong> [Your Address]</p>
+        </header>
+
+        <section class="objective section">
+            <h2>Objective</h2>
+            <p>A dedicated and enthusiastic B.Tech student in the second year, seeking opportunities to apply my programming skills and communication abilities in a dynamic environment. Passionate about learning new technologies and contributing effectively to team projects.</p>
+        </section>
+
+        <section class="personal-info section">
+            <h2>Personal Information</h2>
+            <ul>
+                <li><span>Father's Name:</span> K. Apparao</li>
+                <li><span>Mother's Name:</span> K. Rajani</li>
+            </ul>
+        </section>
+
+        <section class="education section">
+            <h2>Educational Qualification</h2>
+            <ul>
+                <li><span>B.Tech in [Your Branch]</span><br>Institution: Visakha College<br>Year of Study: 2nd Year<br>College: Apex College</li>
+                <li><span>Schooling</span><br>School: Viganabharathi<br>High School Completion Year: [Year of Completion]</li>
+            </ul>
+        </section>
+
+        <section class="skills section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li><span>Programming Languages:</span> C, Java, Python</li>
+                <li><span>Software & Tools:</span> [Any other tools/software you know, e.g., MS Office, Git]</li>
+                <li><span>Other Skills:</span> Communication Skills, Problem Solving, Teamwork</li>
+            </ul>
+        </section>
+
+        <section class="projects section">
+            <h2>Projects</h2>
+            <ul>
+                <li><span>[Project Title 1]</span><br>Briefly describe the project and your contributions.<br><span>Technologies Used:</span> [Technologies used in the project]</li>
+                <li><span>[Project Title 2]</span><br>Briefly describe the project and your contributions.<br><span>Technologies Used:</span> [Technologies used in the project]</li>
+            </ul>
+        </section>
+
+        <section class="internships section">
+            <h2>Internships/Work Experience</h2>
+            <ul>
+                <li><span>[Company/Organization Name] – [Role]</span><br>Duration: [Start Date – End Date]<br><span>Responsibilities:</span> [Responsibilities and tasks you worked on]</li>
+            </ul>
+        </section>
+
+        <section class="extracurricular section">
+            <h2>Extracurricular Activities</h2>
+            <ul>
+                <li>[Any extracurricular activities, clubs, or volunteer work you have done]</li>
+            </ul>
+        </section>
+
+        <section class="certifications section">
+            <h2>Certifications</h2>
+            <ul>
+                <li><span>[Certification Name]</span> – [Issuing Organization]</li>
+                <li><span>[Certification Name]</span> – [Issuing Organization]</li>
+            </ul>
+        </section>
+
+        <section class="references section">
+            <h2>References</h2>
+            <p>Available upon request.</p>
+        </section>
+    </div>
+
+</body>
+</html>
